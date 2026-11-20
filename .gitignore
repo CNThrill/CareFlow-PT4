@@ -1,0 +1,21 @@
+## Visual Studio / .NET / C#
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Database files generated at runtime
+*.db
+*.db-shm
+*.db-wal
+
+## OS & Python temp files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
